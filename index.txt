@@ -1,2 +1,6 @@
 изменение из ветки master
 more
+
+1st in test-branch1
+
+разрешение конфликта
